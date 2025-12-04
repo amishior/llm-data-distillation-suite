@@ -1,0 +1,14 @@
+{
+  "total_samples": 138,
+  "train_samples": 124,
+  "val_samples": 14,
+  "avg_score": 9.081884057971013,
+  "generator_model": "qwen3-max",
+  "evaluator_models": [
+    "Moonshot-Kimi-K2-Instruct",
+    "deepseek-v3.2-exp"
+  ],
+  "min_score_threshold": 7.0,
+  "train_ratio": 0.9,
+  "creation_time": "2025-12-03T00:45:40.105327"
+}
