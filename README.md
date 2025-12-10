@@ -10,7 +10,6 @@ A data distillation pipeline that automates the generation, evaluation, and filt
 * Outputs `train.jsonl` / `val.jsonl` in ShareGPT format and metadata `metadata.json`
 
 Applicable for:
-
 * Distilling high-quality SFT training data from domain knowledge bases
 * Automatically constructing training/evaluation sets for domain LLM fine-tuning
 * Building scalable, LLM-swappable data production pipelines
